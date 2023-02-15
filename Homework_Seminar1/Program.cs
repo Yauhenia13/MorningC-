@@ -88,16 +88,14 @@ Task 4.
 */
 
 // Console.Write("Input a namber: ");
-// int number = Convert.ToInt32(Console.ReadLine());
+// int num = Convert.ToInt32(Console.ReadLine());
 
-// int num = 1;
+// int evenNum = 2;
 
-// while(num <= number)
+// if(evenNum%2 == 0)
+// while(evenNum <= num)
 // {
-//    if(num%2 == 0)
-//    {
-//     Console.Write(num + " ");
-//     num +=1;
-//    }
+//    Console.Write(evenNum + " ");
+//     evenNum = evenNum +2;
 // }
 
